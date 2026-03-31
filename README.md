@@ -1,7 +1,7 @@
 # [Leon] | 全栈开发工程师 (AI & 前端 方向)
 
 > 
-> 📍 **岗位意向**：全栈开发（偏AI 前端方向）
+> 📍 **技术**：全栈开发（偏AI 前端方向）
 > 📧 **邮箱**：[leonaries9527@gmail.com](mailto:leonaries9527@gmail.com)
 > 🌐 **个人网站**：[leonaries.cn](http://leonaries.cn/)
 
